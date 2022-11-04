@@ -4,8 +4,5 @@
         "questionText" : "The earth is round",
         "correctAnswer" : "true",
         "options" : ["true", "false"]
-    },
-    {
-      "question": "What is Python?"
     }
 ]
