@@ -1,14 +1,20 @@
 {
-  "posts": [
-    { "id": 1, "title": "Post 1" },
-    { "id": 2, "title": "Post 2" },
-    { "id": 3, "title": "Post 3" }
+  
+  "list1": [
+            {"name":"Java is object oriented", "answer":"True"},
+            {"name":"Python is a programming language", "answer":"False"},
+            {"name":"Python is object oriented"},
+            {"name":"Python is the same as Java"},
+            {"name":"Which are High level programming languages"},
+            {"name":"What is an array"},
+            {"name":"Do you need to code in computer science"},
+            {"name":"AI is built"},
   ],
-  "comments": [
-    { "id": 1, "body": "some comment", "postId": 1 },
-    { "id": 2, "body": "some comment", "postId": 1 }
+  "list2": [
+    { "Question1": 1, "What is JavaScript?": "W", "postId": 1 },
+    { "Question2": 2, "body": "some comment", "postId": 1 }
   ],
-  "profile": {
+  "list3": {
     "name": "typicode"
   }
 }
